@@ -15,3 +15,6 @@ Simple A-Frame component that can turn any geometry into a dialog.
  * To lint this codebase, run: `yarn lint`.
  * To format this codebase, run: `yarn prettier`.
  * NOTE: lint and prettier will be run before a commit is made.
+
+## Building
+To build this project, run `yarn build`.
