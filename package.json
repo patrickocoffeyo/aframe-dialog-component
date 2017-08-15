@@ -1,6 +1,6 @@
 {
   "name": "aframe-dialog-component",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha1",
   "description": "Simple A-Frame dialog UI component.",
   "main": "./dist/aframe-dialog-component.js",
   "repository": "git@github.com:patrickocoffeyo/nodejs.git",
