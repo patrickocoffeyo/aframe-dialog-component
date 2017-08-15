@@ -1,5 +1,3 @@
-# [Ticket/Task/Story ID and Title](http://path-to-ticket)
-
 **This PR introduces the following changes:**
 -
 
