@@ -1,5 +1,5 @@
-# nodejs
-Repository containing the bare bones tools I use in every Node.js project (yarn, eslint, prettier, husky, etc)
+# A-Frame Dialog Component
+Simple A-Frame component that can turn any geometry into a dialog.
 
 ## Requirements
  * Node.js (see .nvmrc for correct version).
