@@ -3,8 +3,8 @@
   "version": "1.0.0-alpha1",
   "description": "Simple A-Frame dialog UI component.",
   "main": "./dist/aframe-dialog-component.js",
-  "repository": "git@github.com:patrickocoffeyo/nodejs.git",
-  "homepage": "https://github.com/patrickocoffeyo/nodejs/blob/master/README.md",
+  "repository": "git@github.com:patrickocoffeyo/aframe-dialog-component.git",
+  "homepage": "https://github.com/patrickocoffeyo/aframe-dialog-component/blob/master/README.md",
   "author": "Patrick Coffey <patrickcoffey48@gmail.com>",
   "license": "GPL-3.0",
   "contributors": [
