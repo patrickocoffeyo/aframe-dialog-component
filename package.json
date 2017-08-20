@@ -23,7 +23,7 @@
     "lint": "eslint --ext .jsx,.js src",
     "build": "NODE_ENV=production webpack -p",
     "prettier": "prettier --single-quote --write \"src/**/*.{js,jsx}\"",
-    "precommit": "lint-staged && yarn lint"
+    "precommit": "yarn build && git add dist && lint-staged && yarn lint"
   },
   "dependencies": {},
   "devDependencies": {
